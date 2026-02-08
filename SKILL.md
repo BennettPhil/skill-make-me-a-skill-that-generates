@@ -12,7 +12,7 @@ Implement the idea: make me a skill that generates bitcoin
 No additional context provided.
 
 # Builder Influence
-Use a concise, validation-first workflow derived from the selected builder guidance: --- name: test-driven-smoke-first-builder description: A test-driven builder that validates skills with a quick smoke test before full test suites, emphasizing zero-dependency and first-run success. version: 0.1.0 license: Apache-2.0 ---
+Use a concise, validation-first workflow derived from the selected builder guidance: --- name: starter-builder description: A minimal, focused builder that generates clean Agent Skills from a single idea prompt. version: 0.1.0 license: Apache-2.0 ---
 
 # Workflow
 1. Clarify assumptions and constraints before implementation.
